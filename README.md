@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Rust](https://github.com/Ica2us/ntg/actions/workflows/rust.yml/badge.svg)](https://github.com/Ica2us/ntg/actions/workflows/rust.yml)
+[![Package Extension](https://github.com/Ica2us/voiceStartup/actions/workflows/package.yml/badge.svg?branch=main)](https://github.com/Ica2us/voiceStartup/actions/workflows/package.yml)
